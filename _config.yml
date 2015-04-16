@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: http://damsonn.github.io
-title: /dev/damsonn
+title: dam_dev
 subtitle: a blog about my developer adventures
 author: Damien Dormal
 #simple_search: https://www.google.com/search
@@ -22,12 +22,12 @@ subscribe_email:
 email: dormal.damien@gmail.com
 
 navigation:
-- text: Home
-  url: /index.html
+- text: dam_dev
+  url: /
 - text: About
-  url: /about/
+  url: /about
 - text: Archives
-  url: /blog/archives/
+  url: /blog/archives
 
 # ----------------------- #
 #    Jekyll & Plugins     #
