@@ -24,6 +24,10 @@ email: dormal.damien@gmail.com
 navigation:
 - text: Home
   url: /index.html
+- text: About
+  url: /about/
+- text: Archives
+  url: /blog/archives/
 
 # ----------------------- #
 #    Jekyll & Plugins     #
