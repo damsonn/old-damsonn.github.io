@@ -4,7 +4,7 @@
   <title><![CDATA[dam_dev]]></title>
   <link href="http://damsonn.github.io/atom.xml" rel="self"/>
   <link href="http://damsonn.github.io/"/>
-  <updated>2015-04-16T16:25:25+08:00</updated>
+  <updated>2015-04-22T17:31:29+08:00</updated>
   <id>http://damsonn.github.io/</id>
   <author>
     <name><![CDATA[Damien Dormal]]></name>
@@ -12,5 +12,35 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Octopress and Jekyll]]></title>
+    <link href="http://damsonn.github.io/blog/2015/04/octopress-and-jekyll/"/>
+    <updated>2015-04-17T22:21:41+08:00</updated>
+    <id>http://damsonn.github.io/blog/2015/04/octopress-and-jekyll</id>
+    <content type="html"><![CDATA[<h3>Jekyll</h3>
+
+<p>I have been thinking about starting a blog for a little while now.
+I heard about <a href="http://jekyllrb.com/">Jekyll</a> a couple of years ago, it seemed like a good fit so I tried it.
+It is a very simple static site generator, which process markdown files.</p>
+
+<h3>Octopress</h3>
+
+<p>Then I started looking at <a href="http://octopress.org/">Octopress</a>, mainly because of the collection of themes.
+But it also provides some good features on top of <em>Jekyll</em>, such as a plugin mechanism.
+Overall I don&rsquo;t really need anything from it, on top of that I actually preferred the simplicity of Jekyll.
+The main dev of Octopress is currently working on <a href="http://octopress.org/2015/01/15/octopress-3.0-is-coming/">Octopress 3</a>.
+It should create a much more modular foundation and hopefully become cleaner ecosystem.</p>
+
+<h3>Github pages</h3>
+
+<p>Something to note is that <a href="https://pages.github.com/">github pages</a> uses <em>Jekyll</em>, so you have a free hosting option.
+On top of being free you have the best backup system / history you can ask -> GIT</p>
+
+<h3>what&rsquo;s next</h3>
+
+<p>I basically have two options, either I use Octopress 3 when it become stable or I move my blog to vanilla Jekyll.</p>
+]]></content>
+  </entry>
   
 </feed>
